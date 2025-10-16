@@ -68,7 +68,7 @@ void loop() {
   Serial.print(',');
   Serial.print("gy:");
   Serial.print(gy);
-  Serial.print(',');    //temp
+  Serial.print(',');    //temp ,should have filtered data through comp filter for pitch,roll,yaw, (file->accl.ino).
   Serial.print("gz:");
   Serial.print(gz);
   Serial.print(',');
