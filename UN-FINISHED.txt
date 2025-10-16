@@ -1,3 +1,6 @@
-The project is still incomplete, due to a hardware failure,
-i need to buy some tools which i used to have available (which now i don't) when building the hardware in order to fix a hardware problem and then continue with the control software. 
-In the meantime the project remains unfinished.
+The project is still incomplete, due to an unexpected hardware failure,
+i need to buy some tools which i used to have available when building the hardware (which now i don't)  
+in order to fix the hardware problem and then continue with the control software.
+The control software was one of the things that i really hoped to learn and achieve with this project,but the progress made so far is quite good, and everything 
+managed to work to a satisfactory degree up to this point,
+but until i can find the required  tools and time to fix the issue and continue with the control algorithm, the project remains unfinished.
