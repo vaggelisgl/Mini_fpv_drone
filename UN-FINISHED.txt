@@ -1,0 +1,1 @@
+The project is still incomplete, due to a hardware failure, i need to buy some tools which i used to have available (which now i don't) when building the hardware in order to fix a hardware problem and then continue with the control software. In the meantime the project remains unfinished.

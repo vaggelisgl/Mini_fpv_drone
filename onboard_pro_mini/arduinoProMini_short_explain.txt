@@ -1,0 +1,1 @@
+This is the code for the drone's onboard computer, which will gather data from the MPU6050 sensor which it will transmit (raw) to the UNO r4, and it will receive data from the UNO R4 with instructions on motor control (the control algorithms maybe implemented on the other side)
