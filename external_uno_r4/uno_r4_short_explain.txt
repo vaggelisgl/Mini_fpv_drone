@@ -1,1 +1,2 @@
-The above .ino file is the code that will run on the Arduino unoR4 which will get commands from the pc and will transmit them to the Arduino pro mini the onboard computer of the drone, using an NRF24L01
+The above .ino file is the code that will run on the Arduino unoR4
+which will get commands from the pc and will transmit them to the Arduino pro mini the onboard computer of the drone, using an NRF24L01
