@@ -63,12 +63,12 @@ void loop() {
   // Serial.print("az:");
   // Serial.print(az);
   // Serial.print(',');
-  Serial.print("gx:");
+  Serial.print("gx:");  
   Serial.print(gx);
   Serial.print(',');
   Serial.print("gy:");
   Serial.print(gy);
-  Serial.print(',');
+  Serial.print(',');    //temp
   Serial.print("gz:");
   Serial.print(gz);
   Serial.print(',');
